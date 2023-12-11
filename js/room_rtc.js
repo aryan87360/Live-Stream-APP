@@ -6,7 +6,7 @@ if(!uid){
     sessionStorage.setItem('uid', uid)
 }
 
-let token = null;
+let token = ca3a77f54e9c4ad58ccec33c37d2c34a;
 let client;
 
 let rtmClient;
